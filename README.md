@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://i.imgur.com/bKEL9O9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Parstagram - Part I
+<img src='https://i.imgur.com/yeCEbPa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
@@ -49,4 +49,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://i.imgur.com/H72sMih.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/yeCEbPa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
